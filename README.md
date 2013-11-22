@@ -1,6 +1,6 @@
 # 萌典 Firefox Add-on
 
-![萌典 Chrome Extension](data/440x280.png)
+![萌典 Chrome Extension](440x280.png)
 
 [連結](https://chrome.google.com/webstore/detail/%E8%90%8C%E5%85%B8-moedict/aihifbidnaepclhnfppjnpbmeonhhloa)
 
